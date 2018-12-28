@@ -6,7 +6,7 @@ You can manage shipping operations with Shipper Laravel Package.
  - Send cargo info to shipper company.
  - Check cargo status with tracking number.
  - Cancel shippment with tracking number.
- - Logged sent shipments.
+ - Log sended shipments.
 
 ## Shipping Companies
 All shipper package  must implement ShipperContract.
