@@ -10,7 +10,7 @@ An easy to use, shipping processing library for Laravel!
  - Test it with companies **sandbox**.
  - Send Ship Request with **Laravel Queue**
 
-## Shipping Companies
+## Integrated Shipping Companies
 All shipper package  must implement ShipperContract.
 
 The following shippers are available:
