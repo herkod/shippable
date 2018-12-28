@@ -6,7 +6,7 @@ An easy to use, shipping processing library for Laravel!
  - **Send** cargo info to shipper company.
  - **Check** cargo status with tracking number.
  - **Cancel** shippment with tracking number.
- - **Log** sended shipments.
+ - **Log** sended shipments to database.
  - Test it with companies **sandbox**.
  - Send Ship Request with **Laravel Queue**
 
