@@ -1,5 +1,5 @@
 # Shipper
-You can manage shipping operations with Shipper Laravel Package.
+An easy to use, shipping processing library for Laravel!
 
 ## Features
 
